@@ -1,2 +1,3 @@
-# iggyster.github.io
-Peresonal website
+# Iggyster
+
+Peresonal website of Igor Pronin
